@@ -23,7 +23,17 @@ E-commerce-MEAN-project — a frontend web app built with Angular, Tailwind CSS,
 
 ## 📸 Screenshots
 
-![hero door handle](client/public/images/home/hero-door-handle.jpg)
+![hero door handle](https://raw.githubusercontent.com/OmarAliSiad/E-commerce-MEAN-project/main/client/public/images/home/hero-door-handle.jpg)
+
+![catgories](https://raw.githubusercontent.com/OmarAliSiad/E-commerce-MEAN-project/main/client/src/assets/images/admin/catgories.png)
+
+![dashboard](https://raw.githubusercontent.com/OmarAliSiad/E-commerce-MEAN-project/main/client/src/assets/images/admin/dashboard.png)
+
+![home](https://raw.githubusercontent.com/OmarAliSiad/E-commerce-MEAN-project/main/client/src/assets/images/admin/home.png)
+
+![orders](https://raw.githubusercontent.com/OmarAliSiad/E-commerce-MEAN-project/main/client/src/assets/images/admin/orders.png)
+
+![products](https://raw.githubusercontent.com/OmarAliSiad/E-commerce-MEAN-project/main/client/src/assets/images/admin/products.png)
 
 ## 🛠️ Tech Stack
 
