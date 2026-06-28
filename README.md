@@ -4,7 +4,7 @@
 
 ## 📑 Table of Contents
 
-- [Description](#📝description)
+- [Description](#description)
 - [Screenshots](#screenshots)
 - [Tech Stack](#tech-stack)
 - [Architecture](#architecture)
@@ -17,7 +17,7 @@
 - [Contributors](#contributors)
 - [Contributing](#contributing)
 
-## 📝 Description
+##Description
 
 E-commerce-MEAN-project — a frontend web app built with Angular, Tailwind CSS, TypeScript.
 
